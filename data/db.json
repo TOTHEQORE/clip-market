@@ -1,0 +1,30 @@
+{
+  "users": [],
+  "campaigns": [
+    {
+      "id": "c_demo1",
+      "brandId": "seed_demo",
+      "brandName": "Aurora Games",
+      "title": "Launch Trailer Clipping Blitz",
+      "brief": "Cut our new trailer into short highlight clips for TikTok, Reels and Shorts. Focus on the biggest reveal moments and any big reactions.",
+      "requirements": "Vertical format, 15-60s, include our logo watermark, caption the key line of dialogue.",
+      "budget": 5000,
+      "cpm": 2.5,
+      "status": "active",
+      "createdAt": "2026-06-01T00:00:00.000Z"
+    },
+    {
+      "id": "c_demo2",
+      "brandId": "seed_demo2",
+      "brandName": "Northstar Fitness",
+      "title": "Podcast Highlight Clips",
+      "brief": "Turn our long-form podcast episodes into punchy highlight clips people will want to share.",
+      "requirements": "Add captions, keep under 90s, credit the podcast handle in the caption.",
+      "budget": 3000,
+      "cpm": 1.8,
+      "status": "active",
+      "createdAt": "2026-06-10T00:00:00.000Z"
+    }
+  ],
+  "submissions": []
+}
